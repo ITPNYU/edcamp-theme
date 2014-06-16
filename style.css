@@ -1,0 +1,14 @@
+/*
+Theme Name: ITP Make Education Camp 2014
+Theme URI: https://github.com/ITPNYU/edcamp-theme.git
+Author: NYU ITP (based on catch-box)
+Author URI: http://itp.nyu.edu
+Description: Wordpress theme for ITP Make Education site, based on Catch Box
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: catch-box
+Text Domain: edcamp-theme
+*/
+
+@import url("../catch-box/style.css");
