@@ -11,3 +11,11 @@ Tags: dark, light, blue, white, black, gray, green, red, brown, orange, one-colu
 Template: catch-box
 Text Domain: edcamp-theme
 */
+
+#site-generator .copyright {
+   display: none;
+}
+
+#site-generator .powered {
+   display: none;
+}
